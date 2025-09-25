@@ -1,12 +1,13 @@
 # 🚀 B2r Panel Toolkit  
 
 [![Website](https://img.shields.io/badge/Website-b2rbrand.com-blue)](https://b2rbrand.com)  
-[![Telegram](https://img.shields.io/badge/Telegram-Support-brightgreen)](https://t.me/b2rbrand)  
+[![Telegram](https://img.shields.io/badge/Telegram-Community-brightgreen)](https://t.me/b2rpanelcommunity)  
+[![Instagram](https://img.shields.io/badge/Instagram-%40b2rpanel-ff69b4)](https://www.instagram.com/b2rpanel)  
+[![Twitter](https://img.shields.io/badge/Twitter-%40b2r__panel-blue)](https://x.com/b2r_panel)  
+[![YouTube](https://img.shields.io/badge/YouTube-B2r%20Panel-red)](https://youtube.com/@b2rpanel)  
 [![GitHub License](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)  
-[![Made with Python](https://img.shields.io/badge/Made%20with-Python-yellow)](https://www.python.org/)  
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange)](https://github.com/yourusername/your-repo)  
 
-> **B2r Panel** is the #1 Social Media Marketing (SMM) Panel since **2021**, trusted by thousands worldwide.  
+> **B2r Panel** is the #1 Social Media Marketing (SMM) Panel since **2021**, trusted worldwide.  
 > Offering the **cheapest & fastest SMM services** for Telegram, Instagram, YouTube, TikTok, Facebook & WhatsApp.  
 
 💡 **2.8M+ orders processed** | 🌍 **Global coverage** | 💲 **From $0.001/1k**  
@@ -16,9 +17,29 @@
 ## ✨ Features  
 
 - ⚡ **Instant Delivery** – Automated 24/7 system.  
-- 📊 **Wide Range of Services** – Followers, views, likes, subscribers, and premium members.  
+- 📊 **Wide Range of Services** – Followers, views, likes, subscribers, premium members & more.  
 - 💳 **Flexible Payments** – Bitcoin, Payeer, Perfect Money, Bank Transfer (+ bonuses up to 5%).  
 - 🤝 **Reliable Support** – 24/7 dashboard help & **4.8/5 Trustpilot rating**.  
+- 🔒 **Safe & Secure** – Encrypted transactions and privacy-focused.  
+- 🔌 **Powerful API** – Automate orders and integrate into your own platforms.  
+- 📈 **Analytics Dashboard** – Track progress, order status & performance.  
+- 🛍️ **Reseller-Friendly** – Bulk discounts and easy API integration for resellers.  
+- 🌐 **Multi-Language Support** – Easy to use worldwide.  
+- 🎯 **Targeted Services** – Choose niche-specific followers, geo-targeted views & real engagement.  
+- 💻 **Cross-Platform Access** – Works on mobile, tablet, and desktop.  
+- 🛡️ **High Retention** – Non-drop, stable services with guaranteed refill.  
+
+---
+
+## 🔥 Why Choose B2r Panel?  
+
+- 💲 **Lowest Prices Guaranteed** – Starting at just **$0.001 per 1k**.  
+- 🚀 **Fastest Delivery** – Most orders start instantly.  
+- 👑 **Trusted by Influencers & Businesses** – Helping brands grow globally.  
+- 📡 **Reseller Network** – Join hundreds of resellers earning with our API.  
+- 🔐 **Secure & Reliable** – 100% safe payments & private order system.  
+- 🌍 **Worldwide Services** – No matter where you are, we’ve got you covered.  
+- 🏆 **Proven Track Record** – **2.8M+ successful orders** and growing daily.  
 
 ---
 
@@ -88,9 +109,19 @@ pip install requests
 
 🌐 Website: b2rbrand.com
 
-💬 Telegram: @b2rbrand
+💬 Telegram Community: @b2rpanelcommunity
 
-📩 Support: 24/7 via dashboard
+👑 Telegram Owner: @b2rpanelowner
+
+📸 Instagram: @b2rpanel
+
+🐦 Twitter/X: @b2r_panel
+
+▶️ YouTube: B2r Panel
+
+📱 WhatsApp: +255 689 997 037
+
+📞 Call/Text: +255 676 409 410
 
 
 
@@ -104,4 +135,3 @@ This project is licensed under the MIT License.
 ---
 
 ⭐ Built with ❤️ by the B2r Panel Team – Contributions are always welcome!
-
