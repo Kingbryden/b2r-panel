@@ -1,28 +1,28 @@
-# B2R Brand SMM Panel Toolkit
+# B2r Panel Toolkit
 
 [![Telegram SMM](https://img.shields.io/badge/Telegram-SMM-brightgreen)](https://b2rbrand.com)
 
-B2R Brand is the #1 Social Media Marketing (SMM) panel since 2021, offering the cheapest and fastest services for Telegram, Instagram, YouTube, TikTok, Facebook, and WhatsApp. Trusted by millions with over 2.8M orders and prices starting at $0.001/1k.
+B2r Panel is the #1 Social Media Marketing (SMM) panel since 2021, offering the cheapest and fastest services for Telegram, Instagram, YouTube, TikTok, Facebook, and WhatsApp. Trusted by millions with over 2.8M orders and prices starting at $0.001/1k.
 
 ## 🌟 Features
-- **Services:** Telegram Premium Members, non-drop views, Instagram followers, YouTube views, and more.
+- **Services:** Tiktok followers,YouTube subscribers, Telegram Premium Members, non-drop views, Instagram followers, YouTube views, and more.
 - **Delivery:** Instant, automated, 24/7.
 - **Payments:** Bitcoin, Payeer, Perfect Money, Bank Transfer (bonuses up to 5%).
 - **Support:** 24/7 via dashboard, 4.8/5 Trustpilot rating.
 
 ## 🚀 Getting Started
 
-1. **Sign Up:** Create an account at [B2R Brand](https://b2rbrand.com/signup).
+1. **Sign Up:** Create an account at [B2r Panel](https://b2rbrand.com/signup).
 2. **Fund Account:** Minimum $1, bonuses for $10+.
 3. **Place Orders:** Use the panel or integrate via API (see below).
 
 ### Example Code
-Below is a sample Python script to interact with B2R Brand's API (replace with actual API details if available).
+Below is a sample Python script to interact with B2r Panel's API (replace with actual API details if available).
 
 ```python
 import requests
 
-# Replace with your B2R Brand API key and endpoint
+# Replace with your B2r Panel API key and endpoint
 API_KEY = "your_api_key_here"
 API_URL = "https://b2rbrand.com/api/v1"
 
@@ -42,7 +42,7 @@ result = place_order(service_id=123, quantity=1000, link="https://t.me/example")
 print(result)
 ```
 
-**Note:** B2R Brand's API isn't publicly documented. Contact their support for API access.
+**Note:** B2r Panel's API isn't publicly documented. Contact their support for API access.
 
 ## 📋 Services
 | Platform | Service | Non-Drop? |
@@ -60,16 +60,16 @@ pip install requests  # For Python example
 ```
 
 ## 📞 Contact
-- **Website:** [b2rbrand.com](https://b2rbrand.com)
+- **Website:** [B2r Panel](https://b2rbrand.com)
 - **Support:** 24/7 via dashboard
-- **Telegram:** [t.me/b2rbrand](https://t.me/b2rbrand)
+- **Telegram:** [B2rpaneladmin](https://t.me/b2rbrand)
 
 ## 📄 License
 [MIT License](LICENSE)
 
 ---
 
-*Built by [Your Name]. Contributions welcome!*
+*Built by [B2r Panel team❤️]. Contributions welcome!*
 ```
 
 ### Steps to Add to Your Repository
