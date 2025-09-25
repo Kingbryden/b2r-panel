@@ -90,7 +90,6 @@ print(place_order(123, 1000, "https://t.me/example"))
 
 
 
-
 ---
 
 ⚡ Installation
